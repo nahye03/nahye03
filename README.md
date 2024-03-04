@@ -4,8 +4,6 @@
 - 🎓 major : AI, computer vision
 - 💗 interest : autonomous driving perception, sensor fusion 
 
-![Nahye's stats](https://github-readme-stats.vercel.app/api?username=nahye03&show_icons=true&theme=radical)
-
 ## 🛠 Tech Stack
 #### Languages & Technologise
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyQT-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
